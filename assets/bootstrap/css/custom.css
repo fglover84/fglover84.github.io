@@ -24,6 +24,8 @@
   padding-bottom: 120px;
 }
 
+/*greyscales images*/
+
 .img-circle {
 filter: grayscale(100%);
 -webkit-filter: grayscale(100%);
@@ -39,4 +41,38 @@ filter: none;
 -moz-filter: grayscale(0%);
 -ms-filter: grayscale(0%);
 -o-filter: grayscale(0%);
+}
+
+
+.cid-qvgSmGmIjC {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+/* centering social icons */
+
+.cid-qvgT9fl3se .footer-lower .social-list
+{
+  justify-content: center;
+}
+
+.cid-qvgZP23eJ8 .media-container-row .social-list
+{
+  justify-content: center;
+}
+
+.cid-qvgZP23eJ9 .media-container-row .social-list
+{
+  padding-left: 0px;
+  margin-bottom: 0px;
+  list-style-type: none;
+  list-style-image: none;
+  list-style-position: outside;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
 }
