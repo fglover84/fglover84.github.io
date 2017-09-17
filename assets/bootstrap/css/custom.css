@@ -1,0 +1,42 @@
+/* centres text on nav bar */
+
+.cid-qvgNQlujHG .navbar-toggleable-sm .navbar-collapse
+{
+  justify-content: center;
+  padding-left: 5rem;
+  width: auto;
+}
+
+.cid-qvk8yHEVg
+{
+ padding-top: 120px;
+ margin:40px;
+ padding-bottom: 120px;
+ padding-left: auto;
+ padding-right: auto;
+ width:100%;
+
+}
+
+.cid-qvk8yHEVg
+{
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.img-circle {
+filter: grayscale(100%);
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+-ms-filter: grayscale(100%);
+-o-filter: grayscale(100%);
+filter: grayscale(100%);
+}
+
+.listing-box:hover .img-circle {
+filter: none;
+-webkit-filter: grayscale(0%);
+-moz-filter: grayscale(0%);
+-ms-filter: grayscale(0%);
+-o-filter: grayscale(0%);
+}
