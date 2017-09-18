@@ -10,10 +10,9 @@
 .cid-qvk8yHEVg
 {
  padding-top: 120px;
- margin:40px;
  padding-bottom: 120px;
- padding-left: auto;
- padding-right: auto;
+ padding-left: 0px;
+ padding-right: 0px;
  width:100%;
 
 }
@@ -74,5 +73,17 @@ filter: none;
   list-style-position: outside;
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-end;
+  justify-content: center;
+}
+
+.cid-qvybkN5ltV .media-container-row .social-list
+{
+  padding-left: 0px;
+  margin-bottom: 0px;
+  list-style-type: none;
+  list-style-image: none;
+  list-style-position: outside;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
