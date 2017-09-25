@@ -3,7 +3,7 @@
 .cid-qvgNQlujHG .navbar-toggleable-sm .navbar-collapse
 {
   justify-content: center;
-  padding-left: 5rem;
+  padding-left: 7rem;
   width: auto;
 }
 
@@ -91,4 +91,42 @@ filter: none;
 .cid-qvgSmGmIjC .container h3 {
   font-family: cursive;
   color: black;
+}
+
+
+/*keeps picture and text in same row on page 1*/
+
+.cid-qvh01PMy1e .container .media-container-row {
+  flex-wrap: nowrap;
+
+}
+
+.cid-qvh1IHgLOY .container .media-container-row {
+  flex-wrap: nowrap;
+  align-items: end;
+}
+
+.cid-qvh2lUQrNh .container .media-container-row {
+  flex-wrap: nowrap;
+}
+
+.cid-qvgNQlujHG .menu-logo .navbar-brand
+{
+  display: flex;
+  margin-left: 1rem;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  transition-property: padding;
+  transition-duration: 0.2s;
+  transition-timing-function: ease;
+  transition-delay: 0s;
+  min-height: 2.5rem;
+  align-items: center;
+}
+
+.cid-qvgNQlujHG .navbar.navbar-short .navbar-brand
+{
+  min-height: 2.5rem;
 }
