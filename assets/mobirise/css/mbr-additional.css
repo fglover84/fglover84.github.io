@@ -1776,7 +1776,7 @@ body {
   }
 }
 @media (max-width: 543px) {
-  .cid-qvgSmGmIjC .number-wrap {
+  .cid-qvgSmGmIjC  {
     margin-bottom: 15px;
   }
 }
@@ -1785,7 +1785,7 @@ body {
     padding-left: 0;
     padding-right: 0;
   }
-  .cid-qvgSmGmIjC .number-wrap {
+  .cid-qvgSmGmIjC  {
     min-width: auto;
   }
 }
